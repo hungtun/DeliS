@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "name": "Cơm cá lóc kho tộ",
+    "price": "59.000",
+    "des": "Cơm nóng thơm dẻo, thịt cá ngọt và chắc thấm đều gia vị. Khi ăn chan ít nước xốt kho cá vào cơm, xắn thêm miếng cá với ớt để cảm nhận sự hoàn hảo, đậm đà từ món ăn quen thuộc này.",
+    "image": "/img/promotion_img/com/com1.png"
+}, {
+    "id": 2,
+    "name": "Combo Beru",
+    "price": "1.187.000",
+    "des":"Combo Beru gồm 1 hộp Omisoka, 1 hộp salad Wafu và 1 hộp cuốn sushi",
+    "image": "/img/promotion_img/prmt2.png"
+}, {
+    "id": 3,
+    "name": "OFFICE PARTY (Phù Hợp Cho 6-10 Người)",
+    "price": "1.999.000",
+    "des":"Bundle bao gồm 2 Combo Sashimi 20 miếng, 2 Sushi, 2 Set hàu, 2 Maki, 2 Salad Wafu, 3 Phần ăn kèm và 10 Nước tự chọn.",
+    "image": "/img/promotion_img/prmt3.png"
+}, {
+    "id": 4,
+    "name": "Lovey Dovey (Phù Hợp Cho 6 Người)",
+    "price": "2.034.000",
+    "des":"Bundle bao gồm 1 Combo Takara, 1 Nigiri, 1 Salad cá hồi xốt cay, 2 Set hàu, 1 Chai rượu sake",
+    "image": "/img/promotion_img/prmt4.png"
+}, {
+    "id": 5,
+    "name": "Cuốn Trio",
+    "price": "269.000",
+    "des":"Hộp Trio 3 loại cuốn: 1 cuốn California, 1 cuốn Rainbow và 1 cuốn Chef Tataki Spicy",
+    "image": "/img/promotion_img/prmt5.png"
+}, {
+    "id": 6,
+    "name": "Combo Cơm Sườn Bì Chả Trứng, Canh Rong Biển, Nước Ép",
+    "price": "123.000",
+    "des":"1 Cơm sườn nướng, bì, chả, trứng ốp la 1<br>Nước ép đào hạt é HOẶC 1 Nước dừa có cơm dừa 290ML<br>1 Canh rong biển thịt bằm",
+    "image": "/img/promotion_img/prmt6.png"
+}, {
+    "id": 7,
+    "name": "Sweet Love (Phù Hợp Cho 2 Người)",
+    "price": "557.000",
+    "des":"Bundle bao gồm Combo 20 miếng Sashimi, 1 Sushi, 1 Maki, 2 Nước ép",
+    "image": "/img/promotion_img/prmt7.png"
+}, {
+    "id": 8,
+    "name": "BIRTHDAY BUNDLE (Phù Hợp Cho 10 Người)",
+    "price": "2.949.000",
+    "des":"Bundle bao gồm 1 bánh Sushi Keki, 2 Combo Sashimi 30 miếng, 2 Set hàu, 2 Salad tự chọn, 3 Phần ăn kèm, 2 Chai Fukunaga Junmai Sake 300ml.",
+    "image": "/img/promotion_img/prmt8.png"
+}, {
+    "id": 9,
+    "name": "Peach Basil Seed",
+    "price": "39.000",
+    "des":"Nước ép đào hạt é (290ml)<br>Peach Basil Seed (290ml)",
+    "image": "/img/promotion_img/prmt9.png"
+}, {
+    "id": 10,
+    "name": "Bestie (Phù Hợp Cho 4 Người)",
+    "price": "1.505.000",
+    "des":"Bundle bao gồm 1 Set Omisoka, 1 Salad cá hồi xốt cay, 1 Sushi Roll, 2 Set hàu, 2 Rượu mơ",
+    "image": "/img/promotion_img/prmt10.png"
+}]
